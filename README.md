@@ -7,9 +7,9 @@ Clasificación de Consultas con Regresión Logística
 
 **Autores**
 
-- Bocco, Juan
-- Ceci, Pablo
-- Delvechio, Pablo Tomás
+- [Bocco, Juan](https://github.com/JuanBocco)
+- [Ceci, Pablo](https://github.com/CeciPablo)
+- [Delvechio, Pablo Tomás](https://github.com/tomasdelvechio)
 
 **Scripts**
 
